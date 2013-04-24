@@ -1,0 +1,1 @@
+This is an AVL tree representation in C++ which is used to find the connectivity to a communication network
